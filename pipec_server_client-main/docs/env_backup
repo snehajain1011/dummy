@@ -1,0 +1,44 @@
+CLAUDE_API_KEY=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
+CLAUDE_DEFAULT_MODEL=claude-sonnet-4-20250514
+
+# LiveKit Configuration
+LIVEKIT_URL=wss://cuekit-wk9228pm.livekit.cloud
+LIVEKIT_API_KEY=APIFPUqBBozc2FV
+LIVEKIT_API_SECRET=NjpFwMYNyssQw826QXgFLrRXswoo93NIpv8hTtgwbQM
+
+# LIVEKIT_URL=ws://localhost:7880
+# LIVEKIT_API_KEY=devkey
+# LIVEKIT_API_SECRET=secret
+
+LIVEKIT_ROOM_NAME=my_private_sales_room_2024
+LIVEKIT_PARTICIPANT_NAME="InterviewBuddy"
+# Groq API Configuration (for LLM and STT services)
+GROQ_API_KEY=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
+
+# Optional: Other service API keys
+OPENAI_API_KEY=your_openai_api_key_here
+
+ELEVENLABS_VOICE_ID="kqVT88a5QfII1HNAEPTJ"
+ELEVENLABS_VOICE="en-US-Neural"
+ELEVENLABS_API_KEY="sk_c637f44c4f6db762f2411a317292d2bf1f86dffef7a6fa00"
+
+CLAUDE_API_KEY=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
+CLAUDE_DEFAULT_MODEL=claude-sonnet-4-20250514
+
+DEEPGRAM_API_KEY="be2547cce1066a0709d6347a6dea3125076680a9"
+
+MONGODB_URI="mongodb+srv://dev:jv7dxeVfEkbak962@cluster0.ldalez8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
+
+# Server Configuration
+SERVER_HOST=0.0.0.0
+SERVER_PORT=8004
+DEBUG=false
+
+# AWS Server Configuration
+AWS_SERVER_URL=https://api-webrtc.cuekit.ai
+API_KEY=test_api_key_123
+
+# CORS Configuration
+CORS_ORIGINS=["http://localhost:3000", "https://api-webrtc.cuekit.ai", "*"]
+CORS_CREDENTIALS=true
